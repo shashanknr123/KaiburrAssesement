@@ -1,0 +1,7 @@
+spring:
+    data:
+        mongodb:
+            database: Properties
+            host: dazzling_lehmann
+            port: 27018
+                
